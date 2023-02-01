@@ -1,4 +1,3 @@
-### Bathe in the Tears of the Empire
 ### ScrapeSearch
 
 ## 
@@ -16,6 +15,8 @@ Warning: you MUST use a VPN while using this app. You can get constant captchas 
 ![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/cap-2.jpg "ScrapeSearch screencap")
 
 ## 
+
+### Bathe in the Tears of the Empire
 
 If you find yourself often avoiding search engines because you know the results are being gamed by state / corporate / empire propagandists, then likely you have spent a lot of time doing the following:
 
