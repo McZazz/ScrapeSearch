@@ -19,7 +19,8 @@ Warning: you MUST use a VPN while using this app. You can get constant captchas 
 
 If you find yourself often avoiding search engines because you know the results are being gamed by state / corporate / empire propagandists, then likely you have spent a lot of time doing the following:
 
-1: Checking bookmarked sites by hand for old articles that should be returned by a search engine but are not.
+1: Checking bookmarked sites by hand for old articles that should be returned by a search engine but are not. 
+
 2: Running "site:www.domain.com my search terms" by hand, over and over.
 
 You also spend time searching for news agencies all over the world, because even switching your VPN to offshore sources does not fully defeat the reach and proliferation of mainstream American and European news agencies.
