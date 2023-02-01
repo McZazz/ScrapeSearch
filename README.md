@@ -50,7 +50,7 @@ The right column is a work in progress. Time and $ depending, it may or may not 
 ## 
 
 <p align="center" width="100%">
-    <img width="32%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG">
+    <img width="33%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG">
 </p>
 
 ## 
