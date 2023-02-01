@@ -41,6 +41,28 @@ Use the plus button to create groups of domains you wish to bind your searches t
 
 The right column is a work in progress. Time and $ depending, it may or may not expand. But, the idea is to hopefully have an assortment of different search, scrape and analytics jobs available, with unique settings and customization for each. 
 
+## 
+
+![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG "ScrapeSearch screencap")
+
+## 
+
+![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG "ScrapeSearch screencap")
+
+## 
+
+![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto3.PNG "ScrapeSearch screencap")
+
+## 
+
+![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto4.PNG "ScrapeSearch screencap")
+
+## 
+
+![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto5.PNG "ScrapeSearch screencap")
+
+## 
+
 ## Roadmap
 
 This app is a work in progress!
