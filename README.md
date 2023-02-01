@@ -45,19 +45,19 @@ The right column is a work in progress. Time and $ depending, it may or may not 
 ## 
 
 <p align="center" width="100%">
-    <img width="55%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG">
+    <img width="54%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG">
 </p>
 
 ## 
 
 <p align="center" width="100%">
-    <img width="33%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG">
+    <img width="32%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG">
 </p>
 
 ## 
 
 <p align="center" width="100%">
-    <img width="35%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto3.PNG">
+    <img width="36%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto3.PNG">
 </p>
 
 ## 
