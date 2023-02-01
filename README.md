@@ -43,28 +43,33 @@ The right column is a work in progress. Time and $ depending, it may or may not 
 
 ## 
 
-
-
-
-![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG "ScrapeSearch screencap")
-
-## 
-
 <p align="center" width="100%">
-    <img width="50%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG">
+    <img width="40%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG">
 </p>
 
 ## 
 
-![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto3.PNG "ScrapeSearch screencap")
+<p align="center" width="100%">
+    <img width="40%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG">
+</p>
 
 ## 
 
-![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto4.PNG "ScrapeSearch screencap")
+<p align="center" width="100%">
+    <img width="40%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto3.PNG">
+</p>
 
 ## 
 
-![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto5.PNG "ScrapeSearch screencap")
+<p align="center" width="100%">
+    <img width="40%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto4.PNG">
+</p>
+
+## 
+
+<p align="center" width="100%">
+    <img width="40%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto5.PNG">
+</p>
 
 ## 
 
