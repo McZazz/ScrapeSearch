@@ -63,7 +63,7 @@ The right column is a work in progress. Time and $ depending, it may or may not 
 ## 
 
 <p align="center" width="100%">
-    <img width="35%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto4.PNG">
+    <img width="36%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto4.PNG">
 </p>
 
 ## 
