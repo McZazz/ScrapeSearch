@@ -43,10 +43,16 @@ The right column is a work in progress. Time and $ depending, it may or may not 
 
 ## 
 
+
+
+
 ![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG "ScrapeSearch screencap")
 
 ## 
-<div style="text-align:center;width:50%;"><img src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG" /></div>
+
+<p align="center" width="100%">
+    <img width="50%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto2.PNG">
+</p>
 
 ## 
 
