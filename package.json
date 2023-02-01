@@ -1,0 +1,17 @@
+{
+	"name": "ScrapeSearch",
+	"main": "index.html",
+	"chromium-args": "--enable-logging=stderr",
+	"window": {
+		"frame": false,
+		"position": "center",
+		"height": 760,
+		"width": 1280,
+		"icon": "img/icon_win.png"
+	},
+	"dependencies": {
+		"appdata-path": "^1.0.0",
+		"cheerio": "^1.0.0-rc.12",
+		"puppeteer": "^19.4.0"
+	}
+}
