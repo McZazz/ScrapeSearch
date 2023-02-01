@@ -7,6 +7,16 @@ Warning: you MUST use a VPN while using this app. You can get constant captchas 
 
 ### Desktop app facilitating the ability to save groups of domains for use in automating bulk domain-constrained searches on DuckDuckGo to bypass state / corporate / empire rigging of DuckDuckGo search returns. Utilizes NWJS, Puppeteer, Appdata-path and Cheerio.
 
+## 
+
+![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/cap-1.jpg "ScrapeSearch screencap")
+
+## 
+
+![image](https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/cap-2.jpg "ScrapeSearch screencap")
+
+## 
+
 If you find yourself often avoiding search engines because you know the results are being gamed by state / corporate / empire propagandists, then likely you have spent a lot of time doing the following:
 
 1: Checking bookmarked sites by hand for old articles that should be returned by a search engine but are not.
