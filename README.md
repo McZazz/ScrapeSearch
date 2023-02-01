@@ -44,7 +44,7 @@ The right column is a work in progress. Time and $ depending, it may or may not 
 ## 
 
 <p align="center" width="100%">
-    <img width="58%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG">
+    <img width="55%" src="https://raw.githubusercontent.com/McZazz/ScrapeSearch/main/howto1.PNG">
 </p>
 
 ## 
