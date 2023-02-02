@@ -28,7 +28,7 @@ So, we make scrapers and automate our domain constrained searches :)
 
 As you collect domains, save them inside different groups you specify in ScrapeSearch. Select and deselect whichever combinations of these domain groups needed for your searches as you wish. Your search results are displayed in the center column.
 
-The scraper has a built in variable wait period of on average 4 seconds so as to not annoy DuckDuckGo too much.
+The scraper has a built in variable wait period of on average 4 seconds between each interaction online, so as to not annoy DuckDuckGo too much.
 
 This app does not access any service, nor any server other than DuckDuckGo in order to automate your domain constrained searches.
 
