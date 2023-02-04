@@ -86,7 +86,7 @@ And of course, setting this thing up to run as a personal spider, that smartly g
 
 Also, more engines may be added in the future, starting with Google. Their "Selfish Ledger" will guide no one. The proliferation of personal scrapers is the beginning of the end of the fraud of empire and toxic modernity. The end of the societal managerial strategies designed by capital and state to shrug off the guilt of their assaults against humanity in such a way that the international working class is brainwashed into believing that the inhumanites of modernity were our own fault, not of capital or state, all along. They perpetuate the rigging of the internet to facilitate this illusion, in addition to the coups, regime change wars and sanction regimes that they perpetuate all over the world so that they can bring business their way due to thier hinderance of the rest of the world, and us, so we bypass thier assaults on humanity however we can. This is my contribution, I hope you like it :)
 
-So hinder the hinderence of the plutocracy. If you like this app and think you can do better, then by all means, do it!!! You can do it!!!
+So hinder the hinderence of the plutocracy. Don't let the dogmatists win. If you like this app and think you can do better, then by all means, do it!!! You can do it!!! Imagine a spider added to this thing due to links being deleted from the search engines entirely, a personal spider for everyone!!!
 
 ## 
 
