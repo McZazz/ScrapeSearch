@@ -112,7 +112,7 @@ const {join} = require('path');
 const getAppDataPath = require('appdata-path');  
 let root = getAppDataPath('FolderNameInUsersAppdataPath').replaceAll('\\', '/');  
 module.exports = {  
-	cacheDirectory: join(root, '.cache', 'puppeteer'),  
+    cacheDirectory: join(root, '.cache', 'puppeteer'),  
 };  
 
 In your main.js, or wherever you would like to run it (preferably everytime your app starts), the download and install for chrome looks like this:
