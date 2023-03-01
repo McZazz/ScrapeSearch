@@ -110,7 +110,7 @@ create a file called ".puppeteerrc.cjs" in the root project dir, and add the fol
 
 const {join} = require('path');  
 const getAppDataPath = require('appdata-path');  
-let root = getAppDataPath('FolderNameInUsersAppdataPath').replaceAll('\\', '/');  
+let root = getAppDataPath('FolderNameInUsersAppdataPath');  
 module.exports = {  
     cacheDirectory: join(root, '.cache', 'puppeteer'),  
 };  
