@@ -108,19 +108,19 @@ Note for all platforms: If you have never used npm to install Puppeteer, you wil
 To accomplish this portable setup for distro, do the following:
 create a file called ".puppeteerrc.cjs" in the root project dir, and add the following to it (using getAppDataPath() from the appdata-path lib, the "FolderNameInUsersAppdataPath" will need to be created by your app BEFORE later presented code Dls and installs chrome)
 
-const {join} = require('path');
-const getAppDataPath = require('appdata-path');
-let root = getAppDataPath('FolderNameInUsersAppdataPath').replaceAll('\\', '/');
-module.exports = {
-	cacheDirectory: join(root, '.cache', 'puppeteer'),
-};
+const {join} = require('path');  
+const getAppDataPath = require('appdata-path');  
+let root = getAppDataPath('FolderNameInUsersAppdataPath').replaceAll('\\', '/');  
+module.exports = {  
+	cacheDirectory: join(root, '.cache', 'puppeteer'),  
+};  
 
 In your main.js, or wherever you would like to run it (preferably everytime your app starts), the download and install for chrome looks like this:
 
-const path = require('path');
-const {execSync} = require('child_process');
-const {downloadBrowser} = require('puppeteer/internal/node/install.js');
-await downloadBrowser();
+const path = require('path');  
+const {execSync} = require('child_process');  
+const {downloadBrowser} = require('puppeteer/internal/node/install.js');  
+await downloadBrowser();  
 
 It is a good idea to have a check for the folder structure, chrome.exe, and delete first if malformed. The downloadBrowser() in puppeteer also does this, but only if the folder structure is malformed.
 
