@@ -105,6 +105,29 @@ This app was tested thouroughly on Windows. I have no idea how well the principa
 
 Note for all platforms: If you have never used npm to install Puppeteer, you will need to do "npm i puppeteer" separate from "npm install". "npm i puppeteer" will install the chrome install that it accesses in a folder in your home path: ".cache/puppeteer". At least on Windows, "npm install" (with the package.json set with puppeteer as a dependency) will not install this chrome version that puppeteer uses. Also, for distribution, it is necesarry to create an app data folder in the user's usual app data path, and have the chrome dl and run from there.
 
+To accomplish this portable setup for distro, do the following:
+create a file called ".puppeteerrc.cjs" in the root project dir, and add the following to it (using getAppDatapath() from the appdata-path lib, the "FolderInUsersAppdataPath" will need to be created by your app BEFORE later presented code Dls and installs chrome)
+
+const {join} = require('path');
+const getAppDataPath = require('appdata-path');
+let root = getAppDataPath('FolderNameInUsersAppdataPath').replaceAll('\\', '/');
+module.exports = {
+	cacheDirectory: join(root, '.cache', 'puppeteer'),
+};
+
+In your main.js, or wherever you would like to run it (preferably everytime your app starts), the download and install for chrome looks like this:
+
+const path = require('path');
+const {execSync} = require('child_process');
+const {downloadBrowser} = require('puppeteer/internal/node/install.js');
+await downloadBrowser();
+
+It is a good idea to have a check for the folder structure, chrome.exe, and delete first if malformed. The downloadBrowser() in puppeteer also does this, but only if the folder structure is malformed.
+
+Finally, your custom chrome path needs to be called when doing "puppeteer.launch()":
+example assuming we already put the custom chrome path into "this.my_custom_chrome_path" somewhere else:
+this.browser = await this.puppeteer.launch({headless:true, executablePath:this.my_custom_chrome_path});
+
 ## Windows:
 Go to nwjs.io, and download the "Normal" version of nwjs for Windows.
 
