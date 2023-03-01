@@ -124,9 +124,9 @@ await downloadBrowser();
 
 It is a good idea to have a check for the folder structure, chrome.exe, and delete first if malformed. The downloadBrowser() in puppeteer also does this, but only if the folder structure is malformed.
 
-Finally, your custom chrome path needs to be called when doing "puppeteer.launch()":
-example assuming we already put the custom chrome path into "this.my_custom_chrome_path" somewhere else:
-this.browser = await this.puppeteer.launch({headless:true, executablePath:this.my_custom_chrome_path});
+Finally, your custom chrome path needs to be called when doing "puppeteer.launch()":  
+example assuming we already put the custom chrome path into "this.my_custom_chrome_path" somewhere else:  
+this.browser = await this.puppeteer.launch({headless:true, executablePath:this.my_custom_chrome_path});  
 
 ## Windows:
 Go to nwjs.io, and download the "Normal" version of nwjs for Windows.
