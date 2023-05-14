@@ -74,19 +74,9 @@ The right column is a work in progress. Time and $ depending, it may or may not 
 
 This app is a work in progress!
 
-This app is free, open source software. So, if there is no money that magically appears, I will likely not create any of the "power features" that could make this thing a true weapon fit for defending ourselves fully from the rigged nature of the internet. There are other scrapers too, so you should check around and see what you like.
+The "Selfish Ledger" of the plutocracy will guide no one. The proliferation of personal scrapers, and other tools to defeat fakery is the beginning of the end of the fraud of empire and toxic modernity. The end of the societal managerial strategies designed by capital and state to shrug off the guilt of their assaults against humanity in such a way that the international working class is brainwashed into believing that the inhumanites of modernity were our own fault, not of capital or state, all along. They perpetuate the rigging of the internet to facilitate this illusion, in addition to the crimes they commit such as demographic engineering, coups, regime change wars and sanction regimes that they perpetuate all over the world so that they can bring business their way due to thier hinderance of the rest of the world, and us. So we bypass thier assaults on humanity however we can. This is my contribution, I hope you like it :)
 
-However, if money does magically appear out of nowhere, some things are possible in the future with ScrapeSearch:
-
-Taken into pipedream-land, transformer models with attention could be used to get more dynamic checks of phrases going. And wouldn't it be nice to see results displayed on a timeline, if needed? Considering how often empire sources memory-hole their own prior reporting as they magically change their positions on things when their masters order them to, or when the empire's endless pursuit to offer nothing of value while forcing our actions to be fully monetizable by themselves, and I can assure you this is enforced by the sanction and drone weilding ones all over the world unfortunately, not just on rigged search engines... a timeline based display of search results then is necessary. Footers, navs and contact pages could be zeroed in on a job designed to create graph displays of associated sites. Something like a "spam filter" could also be appropriated with user created databases of categorized phrases (for identifying anything you want in a search result, or on Reddit, in addition to spam-like comments) to better fine tune searches for all sorts of fun. 
-
-Some simple additions could be sorting of results, vetting sites for search term hits, creating nested search term checks like we would do when going thru results with "ctrl/cmd + f" checks on the text of articles.
-
-And of course, setting this thing up to run as a personal spider, that smartly goes where we suspect the search engines are avoiding, would be a reasonable addition for sure. The domain groups could become starting points for this.
-
-Also, more engines may be added in the future, starting with Google. Their "Selfish Ledger" will guide no one. The proliferation of personal scrapers is the beginning of the end of the fraud of empire and toxic modernity. The end of the societal managerial strategies designed by capital and state to shrug off the guilt of their assaults against humanity in such a way that the international working class is brainwashed into believing that the inhumanites of modernity were our own fault, not of capital or state, all along. They perpetuate the rigging of the internet to facilitate this illusion, in addition to the coups, regime change wars and sanction regimes that they perpetuate all over the world so that they can bring business their way due to thier hinderance of the rest of the world, and us, so we bypass thier assaults on humanity however we can. This is my contribution, I hope you like it :)
-
-So hinder the hinderence of the plutocracy. Don't let the dogmatists win. If you like this app and think you can do better, then by all means, do it!!! You can do it!!! Imagine a spider added to this thing due to links being deleted from the search engines entirely, a personal spider for everyone!!!
+Hinder the hinderence of the plutocracy. Don't let the dogmatists of gatekeeperism win. If you like this app and think you can do better, then by all means, do it!!! You can do it!!! Imagine a spider added to this thing due to links being deleted from the search engines entirely, a personal spider for everyone!!!
 
 ## 
 
@@ -95,8 +85,10 @@ SearchEngines.js
 433 - 435 (the if statement with "dev speedy" above it)
 However, you will get captchas (and possilby an IP ban) every 5 - 10 searches if you scrape all returned pages every time. Currently there is nothing setup to detect captchas (and the possible IP bans that follow), so the status will just show nothing after about a minute. This means you got a captcha (or ban) and must change your VPN address.
 
+Also, it could be improved by having puppeteer type the search string into the search input, rather than jamming it into the url bar.
+
 ### 
-Don't screw this up, because you don't want your actual IP address banned...
+USE A VPN, don't screw this up, because you don't want your actual IP address banned...
 ### 
 
 This app was tested thouroughly on Windows. I have no idea how well the principal dependency Puppeteer runs on mac and Linux. However, if that is not an issue, since I have this app set up like my other project, OfflineOpenPGP, then it should work on Linux and Mac too, hopefully.
