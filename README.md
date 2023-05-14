@@ -97,7 +97,7 @@ This app was tested thouroughly on Windows. I have no idea how well the principa
 
 Note for all platforms: If you have never used npm to install Puppeteer, you will need to do "npm i puppeteer" separate from "npm install". "npm i puppeteer" will install the chrome install that it accesses in a folder in your home path: ".cache/puppeteer". At least on Windows, "npm install" (with the package.json set with puppeteer as a dependency) will not install this chrome version that puppeteer uses. Also, for distribution, it is necesarry to create an app data folder in the user's usual app data path, and have the chrome dl and run from there.
 
-To accomplish this portable setup for distro, do the following:
+To accomplish this portable setup (app runs in a singular folder, uses app data path for dl and install of chrome and managing app settings data), do the following:
 create a file called ".puppeteerrc.cjs" in the root project dir, and add the following to it (using getAppDataPath() from the appdata-path lib, the "FolderNameInUsersAppdataPath" will need to be created by your app BEFORE later presented code Dls and installs chrome)
 
 const {join} = require('path');  
