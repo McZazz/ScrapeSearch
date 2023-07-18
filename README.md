@@ -151,11 +151,11 @@ npm install
 (the following will be what you do to start the app each time):
 Open a terminal inside the nwjs executable app directory, run the following command to start it, with the path pointing to the src folder in the ScrapeSearch folder: 
 
-open -n -a nwjs --args "[path/to/src]"
+open -n -a [path/to/nwjs] --args "[path/to/src]"
 
-Example (src is separate, on the desktop): 
+Example (src is separate, on the desktop. nwjs-sdk is also on desktop): 
 
-open -n -a nwjs --args "Users/macbook/Desktop/src"
+open -n -a /Users/macbook/Desktop/nwjs-sdk/nwjs.app/Contents/MacOS/nwjs --args "Users/macbook/Desktop/app-src"; 
 
 Your saved data can be found in your system level user data folder, inside a directory named "ScrapeSearch".
 
