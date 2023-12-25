@@ -14,6 +14,8 @@ Warning: you MUST use a VPN while using this app. You can get constant captchas 
 
 ### Bathe in the Tears of the Empire
 
+Tested on NWJS v0.72.0. DuckDuckGo changes their website around every now and then, so the scraping functionality that parses the DuckDuckGo html will need to be updated each time they do this.
+
 If you find yourself often avoiding search engines because you know the results are being gamed by state / corporate / empire propagandists, then likely you have spent a lot of time doing the following:
 
 1: Checking bookmarked sites by hand for old articles that should be returned by a search engine but are not. 
