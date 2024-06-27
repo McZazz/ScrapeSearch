@@ -186,17 +186,6 @@ Your saved data can be found in your system level user data directory, inside a 
 
 ## Development:
 This project is written 100% in object oriented Vanilla JS.
-If you find this project useful, feel free to dump a tiny bit of crypto in my wallet. Future public releases of this app are not guaranteed.
-
-## 
-ZEC: 
-
-t1SFSSr6Da8jVLCq4GMqvuWtkBgLN6ssFho
-
-## 
-BTC: 
-
-bc1q7q2ewrhw5wcmuc3gsd54vdkdywx60zamfj93qn
 
 ## 
 
